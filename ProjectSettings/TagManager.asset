@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cat
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bombs
+  - Player
+  - Enemies
+  - Pickups
+  - Ground
+  - Background Image
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 3479956657
+    locked: 0
+  - name: cat
+    uniqueID: 3815618045
+    locked: 0
+  - name: enemies
+    uniqueID: 3852369617
+    locked: 0
+  - name: zombie
+    uniqueID: 3071496105
+    locked: 0

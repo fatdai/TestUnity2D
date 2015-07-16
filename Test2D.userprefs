@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ZombieController.cs">
+    <Files>
+      <File FileName="Assets/scripts/EnemyController.cs" Line="33" Column="43" />
+      <File FileName="Assets/scripts/KittyCreator.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/ZombieController.cs" Line="87" Column="41" />
+      <File FileName="Assets/scripts/CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/ScreenRelativePosition.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/BackgroundRepeater.cs" Line="4" Column="48" />
+      <File FileName="Assets/scripts/CatController.cs" Line="14" Column="2" />
+      <File FileName="Assets/scripts/StartGame.cs" Line="10" Column="3" />
+      <File FileName="Assets/scripts/Lose.cs" Line="8" Column="1" />
+      <File FileName="Assets/scripts/Win.cs" Line="12" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
